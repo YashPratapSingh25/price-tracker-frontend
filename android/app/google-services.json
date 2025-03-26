@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844675301835",
+    "project_id": "web-scraping-price-tracker",
+    "storage_bucket": "web-scraping-price-tracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844675301835:android:2857a72ac7b862356fb64e",
+        "android_client_info": {
+          "package_name": "com.example.web_scraper_price_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeSgHfDg-NHP3Ei39DuS1PcqyC8-bJ6e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
