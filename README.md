@@ -1,16 +1,19 @@
-# web_scraper_price_tracker
+# Price Tracker App - Frontend (Flutter)
 
-A new Flutter project.
+📌 Overview
 
-## Getting Started
+The Price Tracker App is a Flutter-based application that allows users to track product prices from Amazon and Flipkart using web scraping. Users can authenticate, search for hot deals, monitor price changes, and receive notifications when prices drop.
 
-This project is a starting point for a Flutter application.
+✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+User Authentication: Secure login and registration.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Hot Deals: View trending product deals.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Web Scraping: Fetch product details and prices from Amazon and Flipkart.
+
+Price Tracking: Monitor selected products and their price history.
+
+Graphical Price History: View historical price trends in a graph format.
+
+Notifications: Get notified of price drops.
